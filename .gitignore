@@ -1,0 +1,25 @@
+# Maven build output
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment and local overrides
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
